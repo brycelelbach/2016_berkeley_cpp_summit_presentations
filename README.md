@@ -20,7 +20,7 @@
 |                | Building 59, Room 3101                                       | Building 59, Room 3104                                |
 |----------------|--------------------------------------------------------------|-------------------------------------------------------|
 | 8:45 to 12:45  | Kokkos Tutorial, Carter Edwards and Christian Trott, SNL |                                                           |
-| 1:45 to 5:45   | HPX Tutorial, STE&#124;&#124;AR Group                    | Charm++ Tutorial, Jonathan Lifflander, SNL                |
+| 1:45 to 5:45   | [HPX Tutorial][], STE&#124;&#124;AR Group                | Charm++ Tutorial, Jonathan Lifflander, SNL                |
 
 [Modern C++ For HPC]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/modern_cpp_for_hpc.pdf
 [C++ @ Intel]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/cpp_at_intel.pdf
@@ -35,4 +35,4 @@
 [HPX: A C++ Standard Library for Parallelism & Concurrency]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/hpx_a_standard_library_for_parallelism_and_concurrency.pdf
 [Kokkos: Performance Portability & Productivity for C++ Applications]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/kokkos_performance_portability_and_productivity_for_cpp_applications.pdf
 
-
+[HPX Tutorial]: https://github.com/STEllAR-GROUP/tutorials/tree/master/lbl2016
