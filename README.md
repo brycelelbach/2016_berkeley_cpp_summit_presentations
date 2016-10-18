@@ -8,7 +8,7 @@
 |----------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | 9:00 to 9:55   | [Modern C++ For HPC][], Bryce Adelstein Lelbach, LBNL                                        |                                                                                                               |
 | 10:00 to 10:55 | [C++ @ Intel][], Robert Geva, Intel                                                          |                                                                                                               |
-| 11:00 to 11:55 | [Programming Massively Parallel Hardware with Agency][], Jared Hoberock, NVIDIA              | The Chombo AMR Framework: Refactoring using AMRStencil as Defensive Programming, Brian Van Straalen, LBNL     |
+| 11:00 to 11:55 | [Programming Massively Parallel Hardware with Agency][], Jared Hoberock, NVIDIA              | [The Chombo AMR Framework: Refactoring using AMRStencil as Defensive Programming][], Brian Van Straalen, LBNL |
 | 1:00 to 1:35   | [Clang/LLVM: A Modern C++ Compiler with an HPC Twist][], Hal Finkel, ANL                     | Charm++: Motivation and Basic Concepts, Jonathan Lifflander, SNL                                              |
 | 1:40 to 2:15   | [UPC++: Asynchrony and Active Messages][], John Bachan, LBNL                                 | [CAF: C++ Actor Framework][], Matthias Vallentin, UC Berkeley                                                 |
 | 2:20 to 2:55   | [The RAJA Encapsulation for Architecture Portability][], David Beckingsale, LLNL             | [OpenCL, SYCL and Codeplay][], Michael Wong, Codeplay                                                         |
@@ -25,7 +25,7 @@
 [Modern C++ For HPC]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/modern_cpp_for_hpc.pdf
 [C++ @ Intel]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/cpp_at_intel.pdf
 [Programming Massively Parallel Hardware with Agency]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/programming_massively_parallel_hardware_with_agency.pdf
-
+[The Chombo AMR Framework: Refactoring using AMRStencil as Defensive Programming]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/the_chombo_amr_framework_refactoring_using_amrstencil_as_defensive_programming.pdf
 [Clang/LLVM: A Modern C++ Compiler with an HPC Twist]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/clang_llvm_a_modern_cpp_compiler_with_an_hpc_twist.pdf
 
 [UPC++: Asynchrony and Active Messages]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/upcpp_asynchrony_and_active_messages.pdf
