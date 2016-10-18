@@ -35,7 +35,4 @@
 [HPX: A C++ Standard Library for Parallelism & Concurrency]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/hpx_a_standard_library_for_parallelism_and_concurrency.pdf
 [Kokkos: Performance Portability & Productivity for C++ Applications]: https://github.com/boostcon/2016_berkeley_cpp_summit_presentations/raw/master/talks/kokkos_performance_portability_and_productivity_for_cpp_applications.pdf
 
-[Kokkos Tutorial]:
-[HPX Tutorial]:
-[Charm++ Tutorial]:
 
